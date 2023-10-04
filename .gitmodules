@@ -1,0 +1,3 @@
+[submodule "indo-law"]
+	path = indo-law
+	url = https://github.com/ir-nlp-csui/indo-law.git
